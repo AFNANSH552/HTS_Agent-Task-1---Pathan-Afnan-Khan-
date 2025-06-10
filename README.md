@@ -1,6 +1,6 @@
 # HTS_Agent-Task-1---Pathan-Afnan-Khan- (require API Key)
 
-# HTS AI Agent - Google Colab Implementation
+# HTS AI Agent - Google Colab Implementation (collab notebook link :- https://colab.research.google.com/drive/1QLUZMUNVNY3Xwplh1ad6_XJgrUDn2imS?usp=sharing )
 
 ## 🎯 Overview
 
